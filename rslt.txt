@@ -1,0 +1,12 @@
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo.apk 
+0000000-com.nianticlabs.pokemongo/AndroidManifest.xml:    <uses-permission android:name="android.permission.BLUETOOTH"/>
+0000000-com.nianticlabs.pokemongo/AndroidManifest.xml:    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+\n 
